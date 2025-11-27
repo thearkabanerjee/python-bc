@@ -1,25 +1,31 @@
-# name = "Arka"
+# # name = "Arka"
 
-# print (name)
-
-
-# print ('hello ', name)
+# # print (name)
 
 
-# age: int = 21
-# age += 1
+# # print ('hello ', name)
 
-# print (age)
 
-# print ('i am', age)
-# print (type(age))
+# # age: int = 21
+# # age += 1
 
-height = 250.5
+# # print (age)
 
-print ("your height is" + str(height))
+# # print ('i am', age)
+# # print (type(age))
 
-print (type(height)) # float data type
+# height = 250.5
 
-# f string way of doing a thing 
+# print ("your height is" + str(height))
 
-print (f"your age is {height} cm") # this is also how you write a f string just for the knowledge again
+# print (type(height)) # float data type
+
+# # f string way of doing a thing 
+
+# print (f"your age is {height} cm") # this is also how you write a f string just for the knowledge again
+
+
+# boolean  data type
+
+human = True
+print (human)
