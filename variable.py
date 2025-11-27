@@ -39,3 +39,16 @@ print ('are you a human' + str (human))
 let :str = "hello arka,"
 
 arka :str = "how are you doing ?"
+
+another_variable :int = 43
+
+concatinated_thing = (let + arka)
+
+# concatinated_thing2 = (let +another_variable) # had to comment this out so that the code works without any problems
+
+print (concatinated_thing)
+
+# print (concatinated_thing2)
+
+# concatination only works on strings and nothing else
+# for everything else try using the , or f strings maybe if you have that under the hood
