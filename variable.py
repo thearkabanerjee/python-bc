@@ -29,3 +29,13 @@
 
 human = True
 print (human)
+
+print (type(human))
+
+print ('are you a human' + str (human))
+
+# string concatination btw 
+
+let :str = "hello arka,"
+
+arka :str = "how are you doing ?"
