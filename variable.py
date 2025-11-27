@@ -20,3 +20,6 @@ print ("your height is" + str(height))
 
 print (type(height)) # float data type
 
+# f string way of doing a thing 
+
+print (f"your age is {height} cm") # this is also how you write a f string just for the knowledge again
