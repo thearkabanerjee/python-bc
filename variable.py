@@ -6,9 +6,10 @@
 # print ('hello ', name)
 
 
-age = 21
+age: int = 21
 age += 1
 
 print (age)
 
 print ('i am', age)
+print (type(age))
