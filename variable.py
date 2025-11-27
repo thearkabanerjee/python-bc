@@ -1,6 +1,8 @@
-name = "Arka"
+# name = "Arka"
 
-print (name)
+# print (name)
 
 
-print ('hello ', name)
+# print ('hello ', name)
+
+
