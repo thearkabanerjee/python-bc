@@ -5,3 +5,6 @@
 
 
 # this is what i was really thing
+
+
+# i dont know if i am ok or not 
