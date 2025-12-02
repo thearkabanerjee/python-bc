@@ -7,4 +7,4 @@
 # this is what i was really thing
 
 
-# i dont know if i am ok or not 
+# life is okay even after so many cloud problems
