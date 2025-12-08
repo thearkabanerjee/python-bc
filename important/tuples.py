@@ -7,3 +7,7 @@ print (a.count(2))
 
 # index finding 
 # counting the number of occurences
+
+# tuple is unchangable 
+
+# once added it cant be changed
